@@ -1,6 +1,7 @@
 import './App.css';
 import HomePage from './components/HomePage';
 import Form from './components/Form';
+import MapClass from './components/Map';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -13,6 +14,9 @@ function App() {
           </Route>
           <Route exact path="/form">
             <Form />
+          </Route>
+          <Route exact path="/map">
+            <MapClass />
           </Route>
         </Switch>
       </Router>
