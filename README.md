@@ -17,7 +17,12 @@
 
 ## Team Members
 
-<a href="https://github.com/samankgupta/">Samank Gupta</a><br>
-<a href="https://github.com/ishivanshgoel/">Shivansh Goel</a><br>
-<a href="https://github.com/ujjwa893/">Ujjwal Gupta
+19BLC1012 KPS SHIVRATNA
+19BLC1015 NAMAN SHANDILYA
+19BLC1017 PRIYANSHU PRASAD
+19BLC1085 SAVI JAIN
+19BLC1110 UTKARSHA OJHA
+19BLC1133 UJJWAL GUPTA
+19BLC1160 RAHIL BANDI
+
 </a><br>
