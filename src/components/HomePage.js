@@ -11,7 +11,7 @@ const HomePage = () => {
         <div>
             <div className="h-screen overflow-hidden">
                 <div className="relative">
-                    <img src={homeimage} alt="MedicoAssist" />
+                    <img src={homeimage} alt="CURE-IT" />
                     <div className="absolute top-16 left-24 ">
                         <div className="pt-20">
                             <div className="text-center flex flex-col">
