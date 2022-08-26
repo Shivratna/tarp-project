@@ -16,4 +16,3 @@
 <img src="./src/images/Scikit Learn.svg" alt="Scikit Learn">
 
 * 19BLC1012 KPS SHIVRATNA
-</a><br>
