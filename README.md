@@ -15,14 +15,5 @@
 <img src="./src/images/Pandas.svg" alt="Pandas">
 <img src="./src/images/Scikit Learn.svg" alt="Scikit Learn">
 
-## Team Members
-
 * 19BLC1012 KPS SHIVRATNA
-* 19BLC1015 NAMAN SHANDILYA
-* 19BLC1017 PRIYANSHU PRASAD
-* 19BLC1085 SAVI JAIN
-* 19BLC1110 UTKARSHA OJHA
-* 19BLC1133 UJJWAL GUPTA
-* 19BLC1160 RAHIL BANDI
-
 </a><br>
